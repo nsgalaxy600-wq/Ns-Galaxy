@@ -1,0 +1,6 @@
+{
+  "name": "NS Galaxy - AI Test Generator & Portal",
+  "description": "AI Weekly & Monthly Online Test Generator with Google Forms & Sheets export, live student test portal, and automated grading for NS Galaxy Computer Institute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
